@@ -1,2 +1,2 @@
-# Security-Panel-System
+# Arduino-Security-Panel-System
 A project using Arduino Mega
