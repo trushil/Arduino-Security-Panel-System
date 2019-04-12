@@ -3,7 +3,7 @@ A project using Arduino Mega
 
 # Repository Contents
 
-# Requirements and Materials
+## Requirements and Materials
 
 
 # Build Instructions
