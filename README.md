@@ -106,8 +106,8 @@ The door lock can be opened by entering the 4-digit passcode in the keypad. And,
 
 ## Team
 The build team consists of:
-* Trushil Patel (Major role: Coding and Documentation)
-* Akash Singh (Major role: Testing and Documentation)
+* Trushil Patel (Role: Coding and Documentation)
+* Akash Singh (Role: Testing and Documentation)
 
 ## Credits
 These are the third parties which deserves a credit for motivating us for this project:
