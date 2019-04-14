@@ -50,8 +50,8 @@ To know the connections in detail refer to the below circuit diagram.
 ![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/circuit.jpg)
 
 
-## Uploading sketch
-To assemble this system gather the materials mentioned in Requirements and Materials. Connect each and every hardware component according to the Build instructions.
+## Uploading Sketch
+To assemble this system gather the materials mentioned in Requirements and Materials.
 
 ### Follow these steps to upload the code to Arduino Mega 2560:
 
@@ -85,6 +85,9 @@ Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to man
 8. Copy the code from [here](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/src/ESP8266-HTTP_Server.ino) and paste it in the Arduino IDE.
 9. Then compile the sketch and upload it the same way it was done for Arduino Mega.
 
+After the above steps are completed with no errors disconnect the connections and connect the components again according to the schematic in Build Instructions.
+
+(Note:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
 ## Team
 
 ## Credits
