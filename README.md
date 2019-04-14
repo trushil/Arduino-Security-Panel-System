@@ -38,7 +38,7 @@ Bill of Hardware Materials:
 * 1 X Loud Speaker
 * 1 X LCD-16x2
 * 1 X 1K ohm potentiometer
-* 1 X ESP8266 Wifi Shield
+* 1 X ESP8266 ESP-12E UART WIFI Shield
 
 ## Build Instructions
 The below schematic gives an idea about how the components are put together to build the system.
@@ -57,11 +57,22 @@ Then follow the below steps to upload the code to Arduino Mega:
 
 * Connect USB cable of arduino to the PC.
 * Open Arduino IDE then goto  File->New or press ctrl+N.
-* Then goto tools->Port and select the COM port for Arduino Mega 2560.
+* Then goto tools->Port and select the COM port for Arduino Mega 2560 (for Mac users it would be something like /dev/tty).
 * Copy the code from [Arduino-Mega_Code.ino](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/src/Arduino-Mega_Code.ino) and paste it in Arduino sketch.
 * Download all the libraries from [here](https://github.com/trushil/Arduino-Security-Panel-System/tree/master/libraries). Then go to Documents\Arduino\libraries and pase them here.
 * Compile the sketch by clicking the check button below file option or press ctrl+R.
 * After the sketch gets compiled with no errors press the right arrow button below edit option or press ctrl+U to upload the sketch to Arduino Mega 2560.
+
+Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to manipulate the DIP buttons on the shield. For more details refer to this [link](https://medium.com/@manrick01/arduino-uno-esp8266-esp-12e-uart-wifi-wireless-shield-3a39858e5f25). We can also upload the sketch to the ESP8266 ESP-12E UART WIFI Shield with the help of Arduino Uno or Mega 2560.
+
+To upload the sketch to ESP8266 ESP-12E UART WIFI Shield using Arduino Uno follow these steps:
+* Before connecting align the DIP buttons to (DOWN, DOWN, UP, UP) from 1 to 4 respectively.
+* **Connections:** Do the connections as below table.
+
+| Arduino Uno   | ESP8266 ESP-12E UART WIFI Shield |
+| ------------- |----------------------------------|
+| Rx            | Rx                               |
+
 
 ## Team
 
