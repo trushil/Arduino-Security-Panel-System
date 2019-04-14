@@ -50,7 +50,7 @@ To know the connections in detail refer to the below circuit diagram.
 ![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/circuit.jpg)
 
 
-## Usage
+## Uploading sketch
 To assemble this system gather the materials mentioned in Requirements and Materials. Connect each and every hardware component according to the Build instructions.
 
 ### Follow these steps to upload the code to Arduino Mega 2560:
