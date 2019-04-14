@@ -1,7 +1,8 @@
 # Arduino-Security-Panel-System
 This project is a digital door locking system using concepts of interactive hardware. The presented content in this repository is about a prototype developed according to the proposed design as a part of the final project of the semester. This project is an extension of Security Panel System by [Mert Arduino](http://mertarduinotutorial.blogspot.com/2017/01/arduino-tutorial-22-security-panel.html).
 
-    ![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/open-close-fromkeypad.gif)
+![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/open-close-fromwebpage.gif)
+
 
 ## Repository Contents
 
@@ -98,6 +99,11 @@ Now the system can be monitored and controlled by 2 ways:-
 ### Control and monitor through webpage
 First connect your machine or mobile phone to the same hotspot or access point. Then type the IP address of the server (This can be found on the serial monitor of ESP8266 WIfi Module) as URL in the web browser. Now, from here you can perform OPEN/CLOSE to the door lock system and also monitor the state of the system.
 
+### Controlling through hands
+The door lock can be opened by entering the 4-digit passcode in the keypad. And, the door can be closed by pressing '*' in the keypad. The status of the system can be monitored simultaneoulsy through the webpage. 
+
+![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/open-close-fromkeypad.gif)
+
 ## Team
 The build team consists of:
 * Trushil Patel (Major role: Coding and Documentation)
@@ -119,4 +125,4 @@ Licensed Under [MIT License](LICENSE).
 
 
 
-![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/open-close-fromwebpage.gif)
+
