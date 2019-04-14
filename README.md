@@ -51,7 +51,7 @@ To know the connections in detail refer to the below circuit diagram.
 
 
 ## Usage
-###To assemble this system gather the materials mentioned in Requirements and Materials. Connect each and every hardware component according to the Build instructions.
+### To assemble this system gather the materials mentioned in Requirements and Materials. Connect each and every hardware component according to the Build instructions.
 
 Then follow the below steps to upload the code to Arduino Mega:
 
@@ -65,7 +65,7 @@ Then follow the below steps to upload the code to Arduino Mega:
 
 Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to manipulate the DIP buttons on the shield. For more details refer to this [link](https://medium.com/@manrick01/arduino-uno-esp8266-esp-12e-uart-wifi-wireless-shield-3a39858e5f25). We can also upload the sketch to the ESP8266 ESP-12E UART WIFI Shield with the help of Arduino Uno or Mega 2560.
 
-###To upload the sketch to ESP8266 ESP-12E UART WIFI Shield using Arduino Uno follow these steps:
+### To upload the sketch to ESP8266 ESP-12E UART WIFI Shield using Arduino Uno follow these steps:
 * Before connecting align the DIP buttons to (DOWN, DOWN, UP, UP) from 1 to 4 respectively.
 * **Connections:** Make the connections from Arduino Uno to Wifi shield according to the table below.
 
