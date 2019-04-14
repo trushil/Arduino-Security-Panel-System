@@ -69,13 +69,13 @@ Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to man
 * Before connecting align the DIP buttons to (DOWN, DOWN, UP, UP) from 1 to 4 respectively.
 * **Connections:** Make the connections from Arduino Uno to Wifi shield according to the table below.
 
-| Arduino Uno   | ESP8266 ESP-12E UART WIFI Shield |
-| ------------- |----------------------------------|
-| Rx            | Rx                               |
-| Tx            | Tx                               |
-| GND           | GND                              |
-| +3.3V         | +3.3V                            |
-|   Connect  RESET pin of Arduino Uno to GND       |
+    | Arduino Uno   | ESP8266 ESP-12E UART WIFI Shield |
+    | ------------- |----------------------------------|
+    | Rx            | Rx                               |
+    | Tx            | Tx                               |
+    | GND           | GND                              |
+    | +3.3V         | +3.3V                            |
+    |   Connect  RESET pin of Arduino Uno to GND       |
 
 * After the above connections are made, copy the code
 
