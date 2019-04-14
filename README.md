@@ -41,9 +41,14 @@ Bill of Hardware Materials:
 * 1 X ESP8266 Wifi Shield
 
 ## Build Instructions
-The below schematic gives an idea about how the components are put together to built the system.
+The below schematic gives an idea about how the components are put together to build the system.
 
 ![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/schematic.png)
+
+To know the connections in detail refer to the below circuit diagram.
+
+![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/circuit.jpg)
+
 ## Firmware Installation
 
 ## Usage
