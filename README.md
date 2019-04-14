@@ -77,12 +77,14 @@ Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to man
     | +3.3V         | +3.3V                            |
     |   Connect  RESET pin of Arduino Uno to GND       |
 
-* After the above connections are made, copy the code from [here](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/src/ESP8266-HTTP_Server.ino).
+* After the above connections are made, follow next step.
 
 * Open you IDE and click on "File -> Preferences".
 * In  "Aditional Boards Manager URLs" add this line and click on "OK": "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
 * Go to "Tools -> Board -> Boards Manager", type "ESP8266" and install it.
 * Go again to "Tools -> Board" and select "Generic ESP8266 Module".
+* Copy the code from [here](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/src/ESP8266-HTTP_Server.ino) and paste it in the Arduino IDE.
+* Then compile the sketch and upload it the same way it was done for Arduino Mega.
 
 ## Team
 
