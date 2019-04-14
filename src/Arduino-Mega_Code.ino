@@ -1,6 +1,5 @@
 #include <LiquidCrystal.h> 
 #include <Keypad.h> 
-#include <IRremote.h>
 #include<Stepper.h>
 #include <PCM.h>
 #include <SoftwareSerial.h>
