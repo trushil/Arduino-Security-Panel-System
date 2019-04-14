@@ -1,22 +1,22 @@
 # Arduino-Security-Panel-System
 A project using Arduino Mega
 
-# Repository Contents
+## Repository Contents
 
-# Requirements and Materials
+## Requirements and Materials
 
 
-# Build Instructions
+## Build Instructions
 
-# Firmware Installation
+## Firmware Installation
 
-# Usage
+## Usage
 
-# Team
+## Team
 
-# Credits
+## Credits
 
-# License & Copyrights
+## License & Copyrights
 
 © Trushil Patel, Computer Science, University Of Regina
 
