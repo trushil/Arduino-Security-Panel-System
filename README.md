@@ -23,9 +23,6 @@ A project using Arduino Mega
 Licensed Under [MIT License](LICENSE).
 
 
-![alt text](https://github.com/trushil/Arduino-Security-Panel-System/tree/master/img/open-close-fromkeypad.gif)
-
-
-
+![](https://github.com/trushil/Arduino-Security-Panel-System/tree/master/img/open-close-fromkeypad.gif)
 
 
