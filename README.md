@@ -1,7 +1,7 @@
 # Arduino-Security-Panel-System
 This project is a digital door locking system using concepts of interactive hardware. The presented content in this repository is about a prototype developed according to the proposed design as a part of the final project of the semester. This project is an extension of Security Panel System by [Mert Arduino](http://mertarduinotutorial.blogspot.com/2017/01/arduino-tutorial-22-security-panel.html).
 
-![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/open-close-fromkeypad.gif)
+    ![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/open-close-fromkeypad.gif)
 
 ## Repository Contents
 
