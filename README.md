@@ -49,9 +49,19 @@ To know the connections in detail refer to the below circuit diagram.
 
 ![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/circuit.jpg)
 
-## Firmware Installation
 
 ## Usage
+To assemble this system gather the materials mentioned in Requirements and Materials. Connect each and every hardware component according to the Build instructions.
+
+Then follow the below steps to upload the code to Arduino Mega:
+
+* Connect USB cable of arduino to the PC.
+* Open Arduino IDE then goto  File->New or press ctrl+N.
+* Then goto tools->Port and select the COM port for Arduino Mega 2560.
+* Copy the code from [Arduino-Mega_Code.ino] (https://github.com/trushil/Arduino-Security-Panel-System/blob/master/src/Arduino-Mega_Code.ino) and paste it in Arduino sketch.
+* Download all the libraries from [here](https://github.com/trushil/Arduino-Security-Panel-System/tree/master/libraries). Then go to Documents\Arduino\libraries and pase them here.
+* Compile the sketch by clicking the check button below file option or press ctrl+R.
+* After the sketch gets compiled with no errors press the right arrow button below edit option or press ctrl+U to upload the sketch to Arduino Mega 2560.
 
 ## Team
 
