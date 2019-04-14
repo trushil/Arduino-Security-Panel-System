@@ -91,11 +91,17 @@ To assemble this system gather the materials mentioned in Requirements and Mater
     (**Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
 
 ## Usage
+Before turning on the the system create a hotspot or connect to any access point(**Note**:- Change the credentials accordingly in the code of ESP8266 Wifi shield before uploading to it.). Now Turn ON the system by providing a 9V to 12V power supply.
+
+Now the system can be monitored and controlled by 2 ways:-
+
+### Control and monitor through webpage
+First connect your machine or mobile phone to the same hotspot or access point. Then type the IP address of the server (This can be found on the serial monitor of ESP8266 WIfi Module) as URL in the web browser. Now, from here you can perform OPEN/CLOSE to the door lock system and also monitor the state of the system.
 
 ## Team
 The build team consists of:
-* Trushil Patel (Roles: Coding and Documentation)
-* Akash Singh (Roles: Testing and Documentation)
+* Trushil Patel (Major role: Coding and Documentation)
+* Akash Singh (Major role: Testing and Documentation)
 
 ## Credits
 These are the third parties which deserves a credit for motivating us for this project:
