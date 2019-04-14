@@ -3,7 +3,7 @@ A project using Arduino Mega
 
 ## Repository Contents
 
-*/src - Contains the .ino files for Arduino Mega and ESP8266 Wifi Module
+* /src - Contains the .ino files for Arduino Mega and ESP8266 Wifi Module
 
 ## Requirements and Materials
 
