@@ -87,7 +87,10 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 
     After the above steps are completed with no errors disconnect the connections and connect the components again according to the schematic in Build Instructions.
 
-    (**Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
+    **Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.
+
+## Directions to Use
+
 ## Team
 
 ## Credits
