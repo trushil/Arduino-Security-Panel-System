@@ -16,7 +16,7 @@ A project using Arduino Mega
 
 # Credits
 
-
+Licensed Under [MIT License](LICENSE).
 
 
 
