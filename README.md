@@ -90,11 +90,18 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 
     (**Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
 
-## Directions to Use
+## Usage
 
 ## Team
+The build team consists of:
+* Trushil Patel (Roles: Coding and Documentation)
+* Akash Singh (Roles: Testing and Documentation)
 
 ## Credits
+These are the third parties which deserves a credit for motivating us for this project:
+* Trevor Tomesh, instructor- CS 807 Interactive Hardware
+* [Mert Arduino](http://mertarduinotutorial.blogspot.com/)
+* Family and friends cannot be forgotten :)
 
 ## License & Copyrights
 
