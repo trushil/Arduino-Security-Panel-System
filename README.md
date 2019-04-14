@@ -72,6 +72,10 @@ To upload the sketch to ESP8266 ESP-12E UART WIFI Shield using Arduino Uno follo
 | Arduino Uno   | ESP8266 ESP-12E UART WIFI Shield |
 | ------------- |----------------------------------|
 | Rx            | Rx                               |
+| Tx            | Tx                               |
+| GND           | GND                              |
+| +3.3V         | +3.3V                            |
+|   Connect  RESET pin of Arduino Uno to GND       |
 
 
 ## Team
