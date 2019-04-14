@@ -14,7 +14,7 @@ This project is a digital door locking system using concepts of interactive hard
 
 ## Requirements and Materials
 
-The libraries required to build this project are as follows:-
+The libraries required to build this project are as follows:
 
 * [ESP8288.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/ESP8266WiFi.h)
 * [Keypad.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/Keypad.h)
@@ -22,6 +22,21 @@ The libraries required to build this project are as follows:-
 * [SoftwareSerial.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/SoftwareSerial.h)
 * [Stepper.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/Stepper.h)
 * [LiquidCrystal.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/LiquidCrystal.h)
+
+The Software required for this project is [Arduino IDE](https://www.arduino.cc/en/main/software).
+
+Bill of Hardware Materials:
+* 1 X Arduino Mega 2560 (Rev3)
+* 1 X Piezo Speaker
+* 3 X Leds (Red, Blue, Green)
+* 1 X Matrix Keypad(4 x 4)
+* 1 X 28BYJ-48 Stepper Motor
+* 1 X ULN2003A - Stepper Driver Board
+* 3 X 220 ohm Resistors
+* 1 X Loud Speaker
+* 1 X LCD-16x2
+* 1 X 1K ohm potentiometer
+* 1 X ESP8266 Wifi Shield
 
 ## Build Instructions
 
