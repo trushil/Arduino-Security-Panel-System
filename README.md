@@ -3,7 +3,6 @@ This project is a digital door locking system using concepts of interactive hard
 
 ## Repository Contents
 
-
 * /documentation - Contains the project proposal and design report of this project which was submitted to the instructor. 
 * /hardware - Contains PCB design files.
 * /img - Contains all the image files of this project
@@ -15,6 +14,14 @@ This project is a digital door locking system using concepts of interactive hard
 
 ## Requirements and Materials
 
+The libraries required to build this project are as follows:-
+
+* ESP8288.h
+* Keypad.h
+* PCM.h
+* SoftwareSerial.h
+* Stepper.h
+* LiquidCrystal.h
 
 ## Build Instructions
 
