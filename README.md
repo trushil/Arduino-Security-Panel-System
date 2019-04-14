@@ -16,7 +16,7 @@ A project using Arduino Mega
 
 # Credits
 
-#License & Copyrights
+# License & Copyrights
 
 © Trushil Patel, Computer Science, University Of Regina
 
