@@ -23,7 +23,7 @@ A project using Arduino Mega
 Licensed Under [MIT License](LICENSE).
 
 
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 
