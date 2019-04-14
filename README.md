@@ -63,7 +63,7 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 6. Compile the sketch by clicking the check button below file option or press ctrl+R.
 7. After the sketch gets compiled with no errors press the right arrow button below edit option or press Ctrl+U to upload the sketch to Arduino Mega 2560.
 
-Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to manipulate the DIP buttons on the shield. For more details refer to this [link](https://medium.com/@manrick01/arduino-uno-esp8266-esp-12e-uart-wifi-wireless-shield-3a39858e5f25). We can also upload the sketch to the ESP8266 ESP-12E UART WIFI Shield with the help of Arduino Uno or Mega 2560.
+    Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to manipulate the DIP buttons on the shield. For more details refer to this [link](https://medium.com/@manrick01/arduino-uno-esp8266-esp-12e-uart-wifi-wireless-shield-3a39858e5f25). We can also upload the sketch to the ESP8266 ESP-12E UART WIFI Shield with the help of Arduino Uno or Mega 2560.
 
 ### Follow these steps to upload the code to ESP8266 ESP-12E UART WIFI Shield using Arduino Uno:
 1. Before connecting align the DIP buttons to (DOWN, DOWN, UP, UP) from 1 to 4 respectively.
@@ -85,9 +85,9 @@ Now before uploading the code to ESP8266 ESP-12E UART WIFI Shield we need to man
 8. Copy the code from [here](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/src/ESP8266-HTTP_Server.ino) and paste it in the Arduino IDE.
 9. Then compile the sketch and upload it the same way it was done for Arduino Mega.
 
-After the above steps are completed with no errors disconnect the connections and connect the components again according to the schematic in Build Instructions.
+    After the above steps are completed with no errors disconnect the connections and connect the components again according to the schematic in Build Instructions.
 
-(Note:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
+    (**Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
 ## Team
 
 ## Credits
