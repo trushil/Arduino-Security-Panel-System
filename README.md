@@ -16,7 +16,7 @@ This project is a digital door locking system using concepts of interactive hard
 
 The libraries required to build this project are as follows:-
 
-* ESP8288.h [](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/ESP8266WiFi.h)
+* [ESP8288.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/ESP8266WiFi.h)
 * Keypad.h
 * PCM.h
 * SoftwareSerial.h
