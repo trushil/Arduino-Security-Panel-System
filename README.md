@@ -29,6 +29,7 @@ The Software required for this project is [Arduino IDE](https://www.arduino.cc/e
 
 Bill of Hardware Materials:
 * 1 X Arduino Mega 2560 (Rev3)
+* 1 X Breadboard (optional)
 * 1 X Piezo Speaker
 * 3 X Leds (Red, Blue, Green)
 * 1 X Matrix Keypad(4 x 4)
@@ -87,7 +88,7 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 
     After the above steps are completed with no errors disconnect the connections and connect the components again according to the schematic in Build Instructions.
 
-    **Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.
+    (**Note**:- Change the DIP pins of Wifi Shield to (DOWN,DOWN,DOWN,DOWN,) respectively before turning on the system.)
 
 ## Directions to Use
 
