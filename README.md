@@ -101,6 +101,7 @@ The build team consists of:
 These are the third parties which deserves a credit for motivating us for this project:
 * Trevor Tomesh, instructor- CS 807 Interactive Hardware
 * [Mert Arduino](http://mertarduinotutorial.blogspot.com/)
+* [electronic GURU](https://www.youtube.com/watch?v=F28Znry0qcw)
 * Family and friends cannot be forgotten :)
 
 ## License & Copyrights
