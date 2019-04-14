@@ -32,11 +32,6 @@ Stepper small_stepper(STEPS,motorpin1,motorpin3,motorpin2,motorpin4);
 int Steps2Take;
 
 
-/*int RECV_PIN = 26; // the pin where you connect the output pin of sensor
-IRrecv irrecv(RECV_PIN);
-decode_results results;
-unsigned long key_value = 0;*/
-
 
 /*Declare global variables */
 char epassword[8];
