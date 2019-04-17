@@ -101,6 +101,8 @@ Now the system can be monitored and controlled by 2 ways:-
 ### Control and monitor through webpage
 First connect your machine or mobile phone to the same hotspot or access point. Then type the IP address of the server (This can be found on the serial monitor of ESP8266 WIfi Module) as URL in the web browser. Now, from here you can perform OPEN/CLOSE to the door lock system and also monitor the state of the system.
 
+![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/laptop.gif)
+
 ### Controlling through hands
 The door lock can be opened by entering the 4-digit passcode in the keypad. And, the door can be closed by pressing '*' in the keypad. The status of the system can be monitored simultaneoulsy through the webpage. 
 
